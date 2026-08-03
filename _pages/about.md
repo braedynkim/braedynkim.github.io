@@ -8,8 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-![HST image from PHAT of cluster, association, and galaxy](https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/5/1928/files/2017/09/cropped-b21crop-12qj9v2.png)
-
 ---------
 
 My name is Braedyn Kim and I am an undergraduate student at [University of Illinois Urbana-Champaign](https://illinois.edu/) in the [Dept. of Physics](https://physics.illinois.edu/) and the [Dept. of Astronomy](https://astro.illinois.edu/), going into my final year.
