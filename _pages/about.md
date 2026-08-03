@@ -12,16 +12,10 @@ redirect_from:
 
 ---------
 
-My name is Cliff Johnson and I am a Research Assistant Professor at [Northwestern University](https://www.northwestern.edu/) in [CIERA](https://ciera.northwestern.edu/) and the [Dept. of Physics and Astronomy](https://physics.northwestern.edu/), and the Co-Director & Science Lead of the [Zooniverse](https://www.zooniverse.org/) at the [Adler Planetarium](https://www.adlerplanetarium.org/).
+My name is Braedyn Kim and I am an undergraduate student at [University of Illinois Urbana-Champaign](https://illinois.edu/) in the [Dept. of Physics](https://physics.illinois.edu/) and the [Dept. of Astronomy](https://astro.illinois.edu/), going into my final year. I was part of the CIERA REU program during 2026.
 
-My current research focuses on understanding star formation behavior at spatial scales ranging from that of galaxies down to individual star-forming complexes through the combined study of stellar populations and the interstellar medium. Specifically, I study the formation and evolution of star cluster populations and young pre-main sequence star populations in the Local Group, focusing on how star and cluster formation processes depend on galactic environment. Citizen science and crowdsourcing are important tools in my research.
+My current research focuses on studying galaxy evolution, both through observations and simulations. At UIUC, I analyze JWST and ALMA data to understand more about how emission lines relate to  
 
-Publications List: [via ADS](https://ui.adsabs.harvard.edu/#search/q=orcid%3A0000-0001-6421-0953&sort=date%20desc%2C%20bibcode%20desc)
-
-Example -- adding an image hosted locally:
+I also participated in the Northwestern CIERA REU where I analyzed galaxy FIRE-2 simulations across different evolutionary states to understand 
 
 ![CIERA REU Logo]({{ base_path }}/images/logo_cierareu.png){:width="100"}
-
-Example -- adding an image hosted remotely:
-
-![PHAT Andromeda Mosaic](https://panoptes-uploads.zooniverse.org/production/project_attached_image/049c71e3-6a77-4476-b3aa-8daf3f6b7578.jpeg)
