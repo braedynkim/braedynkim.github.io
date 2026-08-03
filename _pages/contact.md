@@ -4,4 +4,4 @@ title: "Contact"
 author_profile: true
 ---
 
-- Email: bkim235\[at\]illinois.edu 
+- Email: bkim235@illinois.edu 
