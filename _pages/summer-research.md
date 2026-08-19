@@ -1,5 +1,5 @@
 ---
-permalink: /summmer-research/
+permalink: /summer-research/
 title: "CIERA REU Project"
 author_profile: true
 ---
