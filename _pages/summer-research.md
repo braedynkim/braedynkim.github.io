@@ -17,3 +17,5 @@ We use Michael Grudić's [meshoid](https://meshoid.readthedocs.io/en/latest/) to
 
 ## Presentations 
 The end of the program CIERA REU poster is shown below.
+<embed src="/files/CIERA REU Poster Final.pdf" width="100%" height="900px" /> 
+
